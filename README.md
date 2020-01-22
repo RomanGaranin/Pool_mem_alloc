@@ -19,3 +19,6 @@ After description we can imagine what functions may consist the module.
 * A function for initialization the pool.
 * A function for memory allocation.
 * A fanction for memory free.
+
+# TODO:
+* Mutex inside pool.
